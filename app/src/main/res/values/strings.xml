@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DemoExample</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="erroremail">Please enter email</string>
+    <string name="validemail">Please enter valid email address</string>
+    <string name="errorpassword">Please enter password</string>
+    <string name="Signup">Don\'t have an account? Sign up</string>
+    <string name="name">Name</string>
+    <string name="signup">SignUp</string>
+    <string name="backtologin">Back to login</string>
+    <string name="errorname">Please enter name</string>
+    <string name="registerfail">Registration Failed</string>
+    <string name="loginfailed">Login Failed</string>
+    <string name="logout">Logout</string>
+    <string name="pointgraph">Point Graph</string>
+    <string name="logoutmessage">Do you want to logout app?</string>
+    <string name="logouttitle">Confirmation Dialog</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add">Add</string>
+    <string name="add_points_graph">Add Point Graph</string>
+    <string name="title">Title</string>
+    <string name="score1">Score 1</string>
+    <string name="score2">Score 2</string>
+    <string name="errortitle">Please enter title</string>
+    <string name="errorscore1">Please enter score 1 value</string>
+    <string name="errorscore2">Please enter score 2 value</string>
+    <string name="home">Home</string>
+    <string name="guest">Guest</string>
+    <string name="graph">Graph</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+</resources>
